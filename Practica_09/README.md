@@ -11,7 +11,7 @@ Guía Práctica N° 9: Estructuras While
 	- Imprimir lo siguiente: Código del trabajador, nombre del trabajador, sueldo del trabajador, monto total de la nómina, considerando el nuevo saldo y el monto total de los aumentos.
 
 ### Ejercicios Practicos
-- **SumaSerie.cpp**:Obtener la suma de los términos de la serie: 2, 5, 7, 10, 12, 15, 17, ..., 1800.
+- **SumaSerie.cpp**:Obtener la suma de los términos de la serie: `2, 5, 7, 10, 12, 15, 17, ..., 1800`.
 - **Carrito.cpp**:En un supermercado una señora pone en su carrito los artículos que va tomando de los estantes. La señora quiere asegurarse de que el cajero le cobre bien lo que ella ha comprado, por lo que cada vez que toma un artículo anota suprecio con la cantidad de artículos iguales que ha tomado y determina cuánto dinero gastará en ese artículo; a esto le suma lo que irá gastando en los demás artículos, hasta que decide que ya tomó todo lo que necesitaba. Ayúdale a esta señora a obtener el total de sus compras.
 - **Tienda.cpp**:En una tienda de descuento, las personas que van a pagar el importe de su compra llegan a la caja y sacan una bolita de color, que les dirá qué descuento tendrán sobre el total de su compra. Determinar la cantidad que pagará cada cliente desde que la tienda abre hasta que cierra. Se sabe que si el color de la bolita es roja, el ciente tendrá un 40% de descuento; si es amarilla, un 25% y si es blanca, no tendrá descuento.
 - **Ulam.cpp**:La siguente se llama *Conjetura de Ulam* en honor al matemático S. Ulam: Comience con cualquier entero positivo.

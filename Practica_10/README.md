@@ -17,7 +17,7 @@ Guía Práctica N° 10: Estructuras Repeat
 	- Los cuadernos del 10%
   Los datos que se ingresan para cada tipo de artículo son: la cantidad pedida, el precio unitario y el tipo de pago. Si el pago es al contado, se tiene un descuento de 6% en cualquiera de los casos. Calcular e imprimir el costo total del pedido considerando el tipo de pago para cada cliente y el total que pagan al final del día N clientes.
 - **PromedioVentas.cpp**: Determinar la media de ventas de X empleados. cada empleado hace N ventas, el proceso se debe repetir si el usuario lo requiere.
-- **NumVentas.cpp**: Un vendedor ha hecho una serie de ventas y desea saber cuántes de éstas fueron de $200 o menos; cuántas fueron mayores a $200 pero inferiores a $400 y cuántas de $400 o más. Elabore l información para ese vendedor después de leer los datos de entrada. Considere -1 como fin de datos.
+- **NumVentas.cpp**: Un vendedor ha hecho una serie de ventas y desea saber cuántes de éstas fueron de $200 o menos; cuántas fueron mayores a $200 pero inferiores a $400 y cuántas de $400 o más. Elabore la información para ese vendedor después de leer los datos de entrada. Considere -1 como fin de datos.
 - **NotasLiteratura.cpp**: Se tienen las calificaciones de un grupo de alumnos que se examinaron en literatura y el profesor necesita calcular e imprimir las calificaciones clasificadas dentro de los rangos siguientes:
 	0.0 .. 3.99  
 	4.0 .. 5.99  

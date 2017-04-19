@@ -2,9 +2,9 @@ Desarrollo de Lógica de Programación
 ---
 ### Teoría
 
-- Tema_01: Algoritmos en C++
-- Tema_02: Estructuras de Condición (Selectivas)
-- Tema_03: Estructuras de Selección Compuesta (Anidadas)
+- Tema_01: Herramientas de Programación
+- Tema_02: Estructuras Básicas de Programación
+- Tema_03: Estructuras de Datos y Subalgoritmos
 
 ### Prácticas
 
