@@ -20,3 +20,7 @@ Desarrollo de Lógica de Programación
 
 - ExPractico_01 (Practica_04 a Practica_06)
 - ExPractico_02 (Practica_07 a Practica_10)
+
+### Proyecto de Módulo
+
+- [Sistema de Gestion de Pedidos](https://gitlab.com/agodin3z/dlp-sistemapedidos)
